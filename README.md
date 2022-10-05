@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamaithecoder" alt="mamaithecoder" /></a> </p>
 
-- 🌱 I’m currently learning **Full Software Engineering**
+- 🌱 I’m currently learning **Full Stack Software Engineering**
 
 - 💬 Ask me about **C programming, JavaScript, CSS, HTML, ReactJs**
 
