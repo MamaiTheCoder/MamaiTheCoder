@@ -6,9 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamaithecoder" alt="mamaithecoder" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Software Engineering**
+- 🌱 I’m a **Full Stack Software Engineer**
 
-- 💬 Ask me about **C programming, JavaScript, CSS, HTML, ReactJs**
+- 💬 Ask me about **C programming, JavaScript, CSS, HTML, Python, NodeJS**
+
+- Frameworks: **React, React Native, ExpressJS, Django**
+
+- Technology stack **MERN**
 
 - 📫 How to reach me **jmakoks@gmail.com**
 
